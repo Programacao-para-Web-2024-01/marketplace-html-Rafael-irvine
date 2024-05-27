@@ -1,0 +1,30 @@
+h1{
+    display: flex;
+    gap: 16px;
+}
+
+li {
+
+    list-style-type: none;
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 4px;
+    padding: 16px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+spam{
+
+    color: aliceblue;
+    background-color: darkorange;
+    list-style-type: none;
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    text-shadow: black 0px 3px 3px;
+}
+body{
+    background-color: rebeccapurple;
